@@ -1,0 +1,20 @@
+{
+  "name": "@tresbrew/blabber",
+  "version": "1.0.0",
+  "description": "🙊 i18n as simple and fast as possible",
+  "main": "dist/index.ts",
+  "repository": "https://github.com/tresabhi/blabber.git",
+  "author": "TrèsAbhi <43380238+tresabhi@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.4.4",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.0.5",
+    "tsc": "^2.0.4",
+    "typescript": "^4.9.5"
+  }
+}
